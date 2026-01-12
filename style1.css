@@ -15,7 +15,7 @@ body{
     background-color: white;
     border-radius: 10px;
     margin: 20px;
-    width: 45vw;
+    width: 47vw;
     height: 250px;
     padding: 15px;
 }
@@ -23,7 +23,7 @@ body{
 .content{
     background-color: white;
     padding: 15px;
-    margin: 15px;
+    margin: 20px;
 }
 
 .image{
