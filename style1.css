@@ -1,14 +1,23 @@
-.lists{
-    margin: 20px;
-    width: 100vw;
+*{
+    background-image: url("tourismbg.png");
+    background-size: cover;
     height: 100vh;
 }
 
+.lists{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 20px;
+    width: 100vw;
+
+}
+
 .content{
+    background-color: aliceblue;
     padding: 15px;
 }
 
-.image{
-    height: 25px;
-    width: 15px;
+img{
+    height: 75px;
+    width: 50px;
 }
