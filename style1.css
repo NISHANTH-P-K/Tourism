@@ -5,7 +5,7 @@
 }
 
 .lists{
-    background-color: aliceblue;
+    background-color: white;
     border-radius: 10px;
     margin: 20px;
     width: 100vw;
@@ -13,7 +13,7 @@
 }
 
 .content{
-    background-color: aliceblue;
+    background-color: white;
     padding: 15px;
 }
 
