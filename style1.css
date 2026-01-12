@@ -1,0 +1,14 @@
+.lists{
+    margin: 20px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.content{
+    padding: 15px;
+}
+
+.image{
+    height: 25px;
+    width: 15px;
+}
